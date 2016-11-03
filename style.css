@@ -1,0 +1,120 @@
+body { 
+      background-color:beige;
+        }
+
+.lm   {
+        font-size:1900%;
+        color:#F72866;
+       margin:-110px 900px 200px 100px;
+        
+         }
+.lmm   {
+        font-size:1900%;
+         color:#F72866; 
+        margin:-580px 0px 200px 1100px;
+          }
+.zzza5 { 
+          text-align:center;
+          font-size:450%;}
+a:hover {color:lightblue;}
+
+.zzz1 { margin: 800px 1000px 0px 100px;
+         
+        position:relative;}
+             
+.aaa1 {
+        background-color:#7A5D35;
+          padding:10px;
+       
+        
+         
+                        }
+  .aad1 {
+          font-size:300%; 
+        
+        width:60%;
+    margin:auto;
+          padding:50px;
+          text-align:center;
+          color:white;
+         
+          
+    
+                            }
+
+.aab1  { 
+          font-size:550%;
+           margin:0px 650px 0px 580px;
+          color:lightblue;
+         
+                          }
+
+.aac1  {
+          font-size:550%;
+          margin:-110px 100px 0px 700px;
+          padding:0px;
+          color:lightblue;
+         
+         margin-right:400px;
+                          }
+#a1 {
+      background-color:#7A5D35;
+      margin: -50px 400px 25px 400px;
+      padding: 10px;
+      color:white;
+        }
+#b1  {
+      background-color:white;
+       }
+#c1  { background-color:#9B90D4;
+        margin: 30px 320px 1px -1px;
+       cursor:pointer; 
+       padding:65px;
+       }
+#d1  { background-color:gray;
+        margin: -1px 320px 50px -1px;
+        padding:65px;
+         cursor:pointer;
+        }
+#e1  { background-color:#9B90D4;
+       margin: -50px 320px 43px -1px;
+       padding:65px;
+       cursor:pointer;
+        }
+#f1  { background-color:#A5ED61;
+       margin: -625px 150px 50px 168px;
+        padding:65px;
+       cursor:pointer;
+        }
+#g1  { background-color:#D4395D;
+        margin: -50px 142px 50px 168px;
+        padding:65px;
+        cursor:pointer;
+        }
+#h1  { background-color:#A5ED61;
+        padding:65px;
+        margin: -50px 140px 50px 168px;
+        cursor:pointer;
+         }
+#i1  { background-color:#9B90D4;
+        margin: -631px -1px 50px 338px;
+       padding:65px;
+       cursor:pointer;
+         }
+#j1  { background-color:gray;
+        margin: -50px -1px 50px 340px;
+        padding:65px;
+        cursor:pointer;
+            }
+#k1  { background-color:#9B90D4;
+       margin: -50px -1px 50px 340px;
+       padding:65px;
+       cursor:pointer;
+             }
+div div div {
+              border: white 2px solid;
+              color:white;
+              text-align:center;
+              font-size:300%;
+              
+                 }
